@@ -121,7 +121,7 @@
   "19": {
     "id": 19,
     "name": "Çorum",
-    "late": "40.5506",
+    "lat": "40.5506",
     "long": "34.9556",
     "population": 525180,
     "region": "Karadeniz"
