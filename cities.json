@@ -68,5 +68,111 @@
     "long": "27.8826",
     "population": 1186688,
     "region": "Ege"
+      {
+    "id": 12,
+    "name": "Bingöl",
+    "latitude": "39.0626",
+    "longitude": "40.7696",
+    "population": 267184,
+    "region": "Doğu Anadolu"
+  },
+  "13": {
+    "name": "Bitlis",
+    "latitude": "38.3938",
+    "longitude": "42.1232",
+    "population": 267184,
+    "region": "Doğu Anadolu"
+  },
+  "14": {
+    "name": "Bolu",
+    "latitude": "40.5760",
+    "longitude": "31.5788",
+    "population": 291095,
+    "region": "Karadeniz"
+  },
+ "15": {
+    "name": "Burdur",
+    "latitude": "37.4613",
+    "longitude": "30.0665",
+    "population": 258339,
+    "region": "Akdeniz"
+  },
+  "16": {
+    "name": "Bursa",
+    "latitude": "40.2669",
+    "longitude": "29.0634",
+    "population": 2842547,
+    "region": "Marmara"
+  },
+  "17": {
+    "name": "Çanakkale",
+    "latitude": "40.1553",
+    "longitude": "26.4142",
+    "population": 513341,
+    "region": "Marmara"
+  },
+  "18": {
+    "name": "Çankırı",
+    "latitude": "40.6013",
+    "longitude": "33.6134",
+    "population": 180945,
+    "region": "İç Anadolu"
+  },
+  "19": {
+    "id": 19,
+    "name": "Çorum",
+    "latitude": "40.5506",
+    "longitude": "34.9556",
+    "population": 525180,
+    "region": "Karadeniz"
+  },
+ "20": {
+    "name": "Denizli",
+    "latitude": "37.7765",
+    "longitude": "29.0864",
+    "population": 993442,
+    "region": "Ege"
+  },
+ "21": {
+    "name": "Diyarbakır",
+    "latitude": "37.9144",
+    "longitude": "40.2306",
+    "population": 1654196,
+    "region": "Güneydoğu Anadolu"
+  },
+  "22": {
+    "name": "Edirne",
+    "latitude": "41.6818",
+    "longitude": "26.5623",
+    "population": 402537,
+    "region": "Marmara"
+  },
+  "23": {
+    "name": "Elâzığ",
+    "latitude": "38.6810",
+    "longitude": "39.2264",
+    "population": 574304,
+    "region": "Doğu Anadolu"
+  },
+  "24": {
+    "name": "Erzincan",
+    "latitude": "39.7500",
+    "longitude": "39.5000",
+    "population": 222918,
+    "region": "Doğu Anadolu"
+  },
+  "25": {
+    "name": "Erzurum",
+    "latitude": "39.9000",
+    "longitude": "41.2700",
+    "population": 762321,
+    "region": "Doğu Anadolu"
+  },
+  "26": {
+    "name": "Eskişehir",
+    "latitude": "39.7767",
+    "longitude": "30.5206",
+    "population": 826716,
+    "region": "İç Anadolu"
   }
 }
