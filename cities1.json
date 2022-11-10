@@ -1,5 +1,6 @@
 {
    "1": {
+    "id":1,
     "name": "Adana",
     "lat": "37.0000",
     "long": "35.3213",
@@ -7,6 +8,7 @@
     "region": "Akdeniz"
   },
   "2": {
+    "id":2,
     "name": "Adıyaman",
     "lat": "37.7648",
     "long": "38.2786",
@@ -14,6 +16,7 @@
     "region": "Güneydoğu Anadolu"
   },
   "3": {
+    "id":3,
     "name": "Afyonkarahisar",
     "lat": "38.7507",
     "long": "30.5567",
@@ -21,6 +24,7 @@
     "region": "Ege"
   },
   "4": {
+    "id":4,
     "name": "Ağrı",
     "lat": "39.7191",
     "long": "43.0503",
@@ -28,6 +32,7 @@
     "region": "Doğu Anadolu"
   },
   "5": {
+    "id":5,
     "name": "Amasya",
     "lat": "40.6499",
     "long": "35.8353",
@@ -35,6 +40,7 @@
     "region": "Karadeniz"
   },
   "6": {
+    "id":6,
     "name": "Ankara",
     "lat": "39.9208",
     "long": "32.8541",
@@ -42,6 +48,7 @@
     "region": "İç Anadolu"
   },
   "7": {
+    "id":7,
     "name": "Antalya",
     "lat": "36.8841",
     "long": "30.7056",
@@ -49,6 +56,7 @@
     "region": "Akdeniz"
   },
   "8": {
+    "id":8,
     "name": "Artvin",
     "lat": "41.1828",
     "long": "41.8183",
@@ -74,8 +82,8 @@
   "11": {
     "id":11,
     "name": "Bilecik",
-    "lat": "39.6484",
-    "long": "27.8826",
+    "lat": "40.1426",
+    "long": "29.9793",
     "population": 1186688,
     "region": "İç Anadolu"
   }, 
